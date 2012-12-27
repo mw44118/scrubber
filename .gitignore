@@ -4,3 +4,4 @@ src/*.egg-info
 .coverage
 dist
 _build
+build
