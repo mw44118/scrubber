@@ -1,0 +1,15 @@
+++++++++
+Scrubber
+++++++++
+
+Scrubber is sort of like FormEncode_, but without all the metaclass and
+introspection jazz.
+
+Scrubber aims at handling those annoying corner cases really well.  On
+the down side, you have to write more code, because not much happpens
+through magic.
+
+.. _FormEncode: http://formencode.org
+
+.. vim: set syntax=rst:
+
